@@ -1,4 +1,4 @@
-# atelier2
+# geoquizz_backoffice
 
 ## Project setup
 ```
